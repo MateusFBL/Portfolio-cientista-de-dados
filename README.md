@@ -17,14 +17,14 @@ Sou Cientista de Dados Júnior, com uma forte formação em Ciência de Dados e 
 - **Tecnologias**: Python (Matplotlib).
 - **Gráfico**: Veja abaixo o gráfico de habilidades técnicas.
 
-![Gráfico de Barras]((https://github.com/MateusFBL/Portfolio-cientista-de-dados/blob/main/Habilidades_Tecnicas_Barras_Grafico.png))
+![Gráfico de Barras](imagens/graficobarrasreadm.png))
 
 ### 3. Visualização de Habilidades Técnicas - Gráfico de Radar
 - **Descrição**: Para uma visualização mais completa, também criei um gráfico de radar para representar as minhas habilidades técnicas.
 - **Tecnologias**: Python (Matplotlib).
 - **Gráfico**: Veja abaixo o gráfico de radar.
 
-![Gráfico de Radar](Habilidades_Tecnicas_Radar_Atualizado.png)
+![Gráfico de Radar](imagens/graficoradarreadm.png)
 
 ## Habilidades Técnicas
 - **Python**: Proficiência alta, utilizado em diversas ferramentas de análise e Machine Learning.
